@@ -37,5 +37,5 @@ class Solution(object):
     
 
 sol = Solution()
-print(sol.lengthOfLongestSubstring("abcabcbbcd"))
+print(sol.lengthOfLongestSubstring(s))
 

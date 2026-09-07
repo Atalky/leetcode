@@ -28,7 +28,7 @@ class Solution(object):
             reverse += 1
         return True
 
-isPalindrome = Solution()
-print(isPalindrome.isPalindrome(x1))
-print(isPalindrome.isPalindrome(x2))
-print(isPalindrome.isPalindrome(x3))
+sol = Solution()
+print(sol.isPalindrome(x1))
+print(sol.isPalindrome(x2))
+print(sol.isPalindrome(x3))
